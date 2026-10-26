@@ -1,0 +1,12 @@
+{
+ "telegram": {
+  "gubernator_46": 19634,
+  "RndCHP": 94092,
+  "chpbelgorod": 36683,
+  "chp_krd": 48766,
+  "astrapress": 129417,
+  "bazabazon": 50246
+ },
+ "seen": [],
+ "note": "last_id инициализированы по БД модуля на 26.10.2026"
+}
